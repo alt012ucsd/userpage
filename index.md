@@ -6,3 +6,10 @@
 - I'm currently a second year computer science student at UC San Diego. 
 - My primary programming languages include: Python, C++, and Java.
   -   I'm currently trying to improve my skills in Javascript and HTML/CSS.
+
+## Goals
+- [ ] Get an internship (impossible).
+- [ ] Meet new people.
+- [ ] Discover the Truth.
+
+[README File](docs/README.md)
