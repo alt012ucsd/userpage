@@ -12,4 +12,4 @@
 - [ ] Meet new people.
 - [ ] Discover the Truth.
 
-[README File](docs/README.md)
+[README File](README.md)
